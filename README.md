@@ -3,5 +3,7 @@ Java (Maven) application for tracking time on the job
 
 Time tracker
 
-## Causing Trouble
-this is additional line 
+## Purpose
+
+Maven example for various training courses
+
